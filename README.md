@@ -5,7 +5,7 @@
 eg.
 
 qq上一些好友的头像图片
-![image](https://github.com/LiuLinXin/compenyimg/tree/master/show/befor.png)
+![usage pic](./show/befor.png)
 
 合成后
-![image](https://github.com/LiuLinXin/compenyimg/tree/master/show/after.jpg)
+![usage pic](./show/after.jpg)
